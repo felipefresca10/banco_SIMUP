@@ -4,7 +4,7 @@ Catálogo técnico e documentação de governança do banco de dados do Sistema 
 
 ## Como executar
 
-1. Extraia a pasta `SIMUP_Data_Catalog`.
+1. Extraia a pasta `banco_SIMUP-main`.
 2. Abra `index.html` em um navegador ou publique a pasta em um servidor estático (por exemplo, GitHub Pages).
 3. Para melhor compatibilidade com os recursos do navegador, prefira abrir por um servidor local/HTTPS.
 
